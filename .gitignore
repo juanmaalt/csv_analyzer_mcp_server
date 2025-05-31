@@ -52,3 +52,5 @@ dist/
 # MyPy, Pyright
 .mypy_cache/
 .pyright/
+
+config

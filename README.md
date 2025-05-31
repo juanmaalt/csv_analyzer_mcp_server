@@ -34,7 +34,6 @@ The primary function analyze_csv can be invoked with the following parameters:
 ## Project Structure
 ```plaintext
 csv_analyzer_mcp_server/
-├── config/             # Configuration files
 ├── core/               # Core functionality
 ├── data/               # Sample CSV files
 ├── main.py             # Entry point
