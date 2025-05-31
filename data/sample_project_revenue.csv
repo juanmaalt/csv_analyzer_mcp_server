@@ -1,0 +1,26 @@
+Date,Client,Project,Hours,Revenue,Notes
+2025-05-01,Acme Corp,Website Redesign,5,500,Initial design meeting
+2025-05-02,Globex Inc,App Audit,3,300,Reviewed backend performance
+2025-05-03,Acme Corp,Website Redesign,4,400,Frontend prototype work
+2025-05-04,Initech,Security Review,6,600,Reviewed vulnerability report
+2025-05-05,Acme Corp,Website Redesign,,450,Missing hours data
+2025-05-06,Globex Inc,App Audit,2,200,Code cleanup
+2025-05-07,Initech,Security Review,5,550,Firewall configuration
+2025-05-08,Acme Corp,Website Redesign,3,300,Responsive layout updates
+2025-05-09,Wonka LLC,Marketing Site,4,400,Landing page design
+2025-05-10,Acme Corp,Website Redesign,6,600,UX feedback revisions
+2025-05-11,Initech,Security Review,4,,Missing revenue
+2025-05-12,Globex Inc,App Audit,3,310,Refactored API calls
+2025-05-13,Acme Corp,Website Redesign,5,500,Client requested layout tweaks
+2025-05-14,Wonka LLC,Marketing Site,4,420,Initial SEO implementation
+2025-05-15,Globex Inc,App Audit,,330,Missing hours
+2025-05-16,Initech,Security Review,5,500,Reviewed endpoint security
+2025-05-17,Acme Corp,Website Redesign,2,200,Typography adjustments
+2025-05-18,Globex Inc,App Audit,3,310,Session handling fix
+2025-05-19,Initech,Security Review,6,600,Penetration test
+2025-05-20,Wonka LLC,Marketing Site,4,390,Blog integration
+2025-05-21,Acme Corp,Website Redesign,3,310,Icon set update
+2025-05-22,Initech,Security Review,5,500,Audit logging setup
+2025-05-23,Globex Inc,App Audit,4,400,Rate limiter update
+2025-05-24,Wonka LLC,Marketing Site,5,500,Design system documentation
+2025-05-25,Acme Corp,Website Redesign,4,,Missing revenue again

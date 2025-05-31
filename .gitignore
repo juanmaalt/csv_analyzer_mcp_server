@@ -1,0 +1,54 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Uv-specific
+.uv/
+
+# Dependency files
+poetry.lock
+Pipfile.lock
+requirements.txt
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Logs and debug
+*.log
+*.tmp
+
+# Test outputs
+htmlcov/
+.tox/
+coverage.xml
+.pytest_cache/
+nosetests.xml
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# MyPy, Pyright
+.mypy_cache/
+.pyright/
