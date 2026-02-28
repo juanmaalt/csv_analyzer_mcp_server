@@ -53,4 +53,4 @@ dist/
 .mypy_cache/
 .pyright/
 
-config
+config/
